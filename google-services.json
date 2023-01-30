@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "103797540059",
+    "project_id": "abimaster-18a51",
+    "storage_bucket": "abimaster-18a51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103797540059:android:bda0e89fd0d8e22a46f8fe",
+        "android_client_info": {
+          "package_name": "com.n3ls0n.AbiMaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103797540059-vvs2qgeok3bdbg9uqkk04johtmvup98r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoTOR5NWqLGXlqQmnvnA1J8VOXCpwW5d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103797540059-vvs2qgeok3bdbg9uqkk04johtmvup98r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
